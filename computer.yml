@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: Asus
     cores: 8
+    frequency: 1000
+  memory:
+    manufacturer: Kingstone
+    size: 13
+    type: hp proBook
+  disk:
+    manufacturer: Samsung
+    size: 1000
+    type: SSD
