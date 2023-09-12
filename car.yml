@@ -1,4 +1,7 @@
 car:
   manufacturer: volvo
-  model: 2020C
+  model: V60
+  year: 2020
+  attributes: plug-in
+  reg: JKL 789
 
