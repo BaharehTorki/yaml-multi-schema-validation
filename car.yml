@@ -2,6 +2,6 @@ car:
   manufacturer: volvo
   model: V60
   year: 2020
-  attributes: plug-in
+  attributes: [plug-in], [white]
   reg: JKL 789
 
