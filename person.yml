@@ -5,4 +5,4 @@ person:
   age: 28
   class: A
   start_year: 1980
-  hobbies: Photography
+  hobbies: [Typography], [Photography], [Bike]
