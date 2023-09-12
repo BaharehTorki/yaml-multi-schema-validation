@@ -1,0 +1,8 @@
+person:
+  name:
+    first_name: Sam
+    last_name: Eriksson
+  age: 28
+  class: A
+  start_year: 1980
+  hobbies: [Typography], [Photography], [Bike]
